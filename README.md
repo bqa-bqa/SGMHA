@@ -1,4 +1,6 @@
- # SGMHA - 单细胞RNA序列分析项目
+ # SGMHA: Semantic Graph Reconstruction with
+Multi-Head Attention for Gene Regulatory
+Network Inference
 
 ## 项目描述
 基于图神经网络和自编码器的单细胞RNA序列数据分析工具。
